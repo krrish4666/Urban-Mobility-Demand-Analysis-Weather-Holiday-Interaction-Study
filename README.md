@@ -95,6 +95,12 @@ This project aims to answer:
 - Temperature vs Demand scatter with regression trend
 
 ---
+## 📊 Dashboard Preview
+
+![Executive Overview](<img width="1119" height="625" alt="1  Executive Overview" src="https://github.com/user-attachments/assets/0615fb7c-6ff7-42d1-af77-a1378e83b94a" />
+)
+![Deep Dive](<img width="1117" height="627" alt="2  Deep Dive" src="https://github.com/user-attachments/assets/3ee161ba-01f9-4681-a8eb-d92c161f6f14" />
+)
 
 ## ⚠ Limitations
 
