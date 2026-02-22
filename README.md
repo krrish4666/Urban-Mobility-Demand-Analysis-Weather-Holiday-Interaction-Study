@@ -97,11 +97,11 @@ This project aims to answer:
 ---
 ## 📊 Dashboard Preview
 
-    ![Executive Overview]
-<img width="1119" height="625" alt="1  Executive Overview" src="https://github.com/user-attachments/assets/a1835414-b00c-451e-9ce5-5f32ec98abf9" />
+![Executive Overview]
+<img width="600" height="500" alt="1  Executive Overview" src="https://github.com/user-attachments/assets/a1835414-b00c-451e-9ce5-5f32ec98abf9" />
 
-    ![Deep Dive]
-<img width="1117" height="627" alt="2  Deep Dive" src="https://github.com/user-attachments/assets/9d9c14e9-eecf-40ff-9774-c69ceda055a2" />
+![Deep Dive]
+<img width="600" height="500" alt="2  Deep Dive" src="https://github.com/user-attachments/assets/9d9c14e9-eecf-40ff-9774-c69ceda055a2" />
 
 ## ⚠ Limitations
 
