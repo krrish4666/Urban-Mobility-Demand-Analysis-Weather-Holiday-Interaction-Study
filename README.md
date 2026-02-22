@@ -117,13 +117,13 @@ This project aims to answer:
 
 ## 📁 Repository Structure
     urban-mobility-demand-analysis/
-│
-├── data/
-├── notebooks/
-├── sql/
-├── powerbi/
-├── images/
-└── README.md
+    │
+    ├── data/
+    ├── notebooks/
+    ├── sql/
+    ├── powerbi/
+    ├── images/
+    └── README.md
 
 
 ---
