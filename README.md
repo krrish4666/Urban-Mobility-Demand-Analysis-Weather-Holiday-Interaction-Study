@@ -97,12 +97,13 @@ This project aims to answer:
 ---
 ## 📊 Dashboard Preview
 
-![Executive Overview]
+1. Executive Overview
 <img width="600" height="500" alt="1  Executive Overview" src="https://github.com/user-attachments/assets/a1835414-b00c-451e-9ce5-5f32ec98abf9" />
 
-![Deep Dive]
+2. Deep Dive
 <img width="600" height="500" alt="2  Deep Dive" src="https://github.com/user-attachments/assets/9d9c14e9-eecf-40ff-9774-c69ceda055a2" />
 
+---
 ## ⚠ Limitations
 
 - January-only dataset (winter scope)
